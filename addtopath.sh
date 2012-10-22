@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/bin/sh
 
 echo "\n# Dart" >> ~/.profile
 echo "export DART_SDK=/dart-sdk" >> ~/.profile
